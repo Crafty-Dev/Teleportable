@@ -1,0 +1,7 @@
+name: Teleportable
+version: 1.0
+author: Crafty
+main: de.crafty.teleportable.main.Teleportable
+
+api-version: 1.16
+
